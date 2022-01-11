@@ -1,0 +1,45 @@
+{
+    "name": "yasine-vs-theme",
+    "displayName": "Yasine theme",
+    "description": "",
+    "version": "1.0.0",
+    "publisher": "YASINEDr",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "author": {
+        "name": "Yassine Idrissi"
+      },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/YASINEDr/yasine-vs-theme"
+      },
+      "bugs": {
+        "url": "https://github.com/YASINEDr/yasine-vs-theme/issues"
+      },
+      "galleryBanner": {
+        "color": "#ffd700",
+        "theme": "dark"
+      },
+      "icon": "images/icon-theme.png",
+      "categories": [
+        "Themes"
+      ],
+      "keywords": [
+        "Dark Theme",
+        "Yasine Theme",
+        "VSCode Theme",
+        "vsCode",
+        "black",
+        "yellow"
+      ],
+      "contributes": {
+        "themes": [
+          {
+            "label": "Yasine Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Yasine VS theme-color-theme.json"
+          }
+        ]
+      }
+}
