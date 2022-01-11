@@ -5,7 +5,11 @@ Thanks for checking out my VS Code theme
 
 I make this theme for my personal prefrences 
 
-This theme is Dark with high contrast Comfortable on the eyes Contains beautiful colors for all languages
+This theme is Dark with high contrast , Comfortable on the eyes , Contains beautiful colors for all languages
+
+## How it look
+
+![Capture](https://user-images.githubusercontent.com/34688076/148872582-3d97d957-6c25-4cee-a4ad-80e926d3f9d0.PNG)
 
 
 ## Installation

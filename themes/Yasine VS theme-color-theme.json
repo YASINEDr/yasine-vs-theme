@@ -182,7 +182,7 @@
 		"notificationCenterHeader.background": "#303031",
 		"notifications.border": "#303031",
 		"gitDecoration.addedResourceForeground": "#10501c",
-		"gitDecoration.conflictingResourceForeground": "#6c6cc4",
+		"gitDecoration.conflictingResourceForeground": "#e90000",
 		"gitDecoration.deletedResourceForeground": "#e42402",
 		"gitDecoration.ignoredResourceForeground": "#8c8c8c",
 		"gitDecoration.modifiedResourceForeground": "#e88b00",
