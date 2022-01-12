@@ -21,7 +21,7 @@ This theme is Dark with high contrast , Comfortable on the eyes , Contains beaut
 1. Select the Manage Cog (bottom left) > Color Theme ＞ Yasine Theme
 1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
-[![Version](https://img.shields.io/badge/yasine%20theme-v1.0.0-ffd700)](https://marketplace.visualstudio.com/items?itemName=YASINEDr.yasine-vs-theme)
+[![Version](https://img.shields.io/badge/yasine%20theme-v1.1.3-%23ffd700)](https://marketplace.visualstudio.com/items?itemName=YASINEDr.yasine-vs-theme)
 
 ## Issues & Suggestions
 
