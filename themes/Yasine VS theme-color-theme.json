@@ -331,10 +331,20 @@
 		{
 			"scope": [
 				"keyword.control",
+				"punctuation.definition.keyword.scss",
 				"punctuation.definition.keyword.css"
 			],
 			"settings": {
 				"foreground": "#fa0e5c"
+			}
+		},
+		{
+			"name": "sass variable",
+			"scope": [
+				"variable.scss",
+			],
+			"settings": {
+				"foreground": "#fae100"
 			}
 		},
 		{
